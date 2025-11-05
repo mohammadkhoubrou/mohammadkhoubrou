@@ -1,8 +1,8 @@
 <p align="center">
-  <p align="center"> <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+How+are+you+today:);&center=true&width=500&height=50&color=007BFF"></a></p>
+  <p align="center"> <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey firends;&center=true&width=500&height=50&color=007BFF"></a></p>
 </p>
 <p align="center">
-<img src="assets/hey-robot.gif" width="500"/>
+<img src="assets/hey-robot.gif" align = "center" width="500"/>
  <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=How+are+you+today:);&center=true&width=500&height=50&color=FFA500"></a> 
 </p>
 
