@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey, friends+How+are+you+today:);&center=true&width=500&height=50&color=007BFF,DC143C&font=Fira+Code&size=24"></a>
+  <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey, friends+How+are+you+today:);&center=true&width=500&height=50&color=007BFF,DC143C"></a>
      <img src="assets/hey-robot.gif" width="500"/>
 </p>
 
