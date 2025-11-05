@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Clickable neon text linking to your profile -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" aria-label="Visit my GitHub profile">
+  <a href="https://github.com/mohammadkhoubrou" target="_blank" rel="noopener noreferrer" aria-label="Visit my GitHub profile">
     <svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleDesc">
-      <title id="titleDesc">Neon GitHub link — YOUR_USERNAME</title>
+      <title id="titleDesc">Neon GitHub link — mohammadkhoubrou</title>
 
       <defs>
         <!-- base blurred glow -->
@@ -33,14 +33,14 @@
       <!-- blurred glow layer (animated subtle pulse) -->
       <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, sans-serif"
             font-weight="700" font-size="56" fill="#00ffea" filter="url(#glow)" style="letter-spacing:3px;">
-        YOUR_USERNAME
+        mohammadkhoubrou
         <animate attributeName="opacity" values="0.75;1;0.8;1;0.75" dur="3s" repeatCount="indefinite"/>
       </text>
 
       <!-- stronger glow layer that flickers -->
       <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, sans-serif"
             font-weight="700" font-size="56" fill="#39ff14" filter="url(#glow-strong)" style="letter-spacing:3px;">
-        YOUR_USERNAME
+        mohammadkhoubrou
         <!-- flicker pattern -->
         <animate attributeName="opacity"
                  values="1;0.6;1;0.2;1;0.9;1"
@@ -52,7 +52,7 @@
       <!-- sharp front text -->
       <text x="50%" y="55%" text-anchor="middle" font-family="Segoe UI, Roboto, Arial, sans-serif"
             font-weight="700" font-size="56" fill="#eaff00" style="letter-spacing:3px;">
-        YOUR_USERNAME
+        mohammadkhoubrou
         <!-- slow color shimmer -->
         <animate attributeName="fill" values="#eaff00;#ffd400;#eaff00" dur="5s" repeatCount="indefinite"/>
       </text>
