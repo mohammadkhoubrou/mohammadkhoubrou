@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey, friends!How+are+you+today:);&center=true&width=500&height=50&color=DC143C"></a>
-     <img src="assets/hey-robot.gif" width="500"/>
 </p>
+<img src="assets/hey-robot.gif" width="500"/>
 
 ## I'm Mohammad Khoubrou
 I'm a computers and AI enthusiast that likes to get his hands dirty crafting.
