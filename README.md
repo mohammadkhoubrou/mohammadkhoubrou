@@ -1,63 +1,7 @@
-<!-- README.md — animated greeting + tiny robot for @mohammadkhoubrou -->
 <p align="center">
-
-<!-- Animated SVG: blinking text + small robot circling -->
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="760" height="140" viewBox="0 0 760 140" role="img" aria-label="Animated greeting">
-  <defs>
-    <style type="text/css"><![CDATA[
-      .greeting { font: 700 32px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill:#0f172a; }
-      .shadow { font: 700 32px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill:#cbd5e1; opacity:0.25; }
-      .robot-body { stroke:#0f172a; stroke-width:2; fill:#e6eef8; }
-    ]]></style>
-  </defs>
-
-  <!-- shadow text -->
-  <text x="60" y="60" class="shadow">Hey, How are you today?</text>
-
-  <!-- blinking main text -->
-  <text x="60" y="60" class="greeting">
-    <tspan>
-      Hey, How are you today?
-      <animate attributeName="opacity"
-               values="0;1;1;0;1"
-               dur="2.4s"
-               repeatCount="indefinite" />
-    </tspan>
-  </text>
-
-  <!-- tiny robot group -->
-  <g id="robot" transform="translate(0,0)">
-    <path id="orbitPath" d="M420,15 a1,1 0 0,1 0,120 a1,1 0 0,1 0,-120" fill="none" stroke="none"/>
-
-    <!-- robot -->
-  <g class="robot" transform="translate(420,20)">
-      <rect x="-12" y="0" width="24" height="24" rx="4" class="robot-body"/>
-      <circle cx="-5" cy="8" r="2" fill="#0f172a"/>
-      <circle cx="5" cy="8" r="2" fill="#0f172a"/>
-      <rect x="-6" y="14" width="12" height="2" rx="1" fill="#0f172a" />
-      <line x1="6" y1="-2" x2="12" y2="-8" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="13" cy="-9" r="1.8" fill="#f97316"/>
-      <animateTransform attributeName="transform"
-                        type="rotate"
-                        values="-8 0 0; 8 0 0; -8 0 0"
-                        dur="1.6s"
-                        repeatCount="indefinite"/>
-  </g>
-
-  <!-- robot motion -->
-  <animateMotion xlink:href="#robot"
-                   dur="6s"
-                   repeatCount="indefinite"
-                   rotate="auto">
-      <mpath xlink:href="#orbitPath"/>
-    </animateMotion>
-  </g>
-</svg>
-
+  <a href="https://github.com/mohammadkhoubrou"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+How+are+you+today:);&center=true&width=500&height=50"></a>
+     <img src="assets/hey-robot.gif" width="500"/>
 </p>
-
----
 
 ## 👋 Hey there, I'm [@mohammadkhoubrou](https://github.com/mohammadkhoubrou)
 
